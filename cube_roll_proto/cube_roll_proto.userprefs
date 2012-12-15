@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GeneralLevelManager.js">
+    <Files>
+      <File FileName="Assets\scripts\GeneralLevelManager.js" Line="103" Column="62" />
+      <File FileName="Assets\scripts\AdjustableSmoothFollow.js" Line="205" Column="24" />
+      <File FileName="..\..\play\cube_roll_proto\Assets\scripts\AdjustableSmoothFollow.js" Line="210" Column="1" />
+      <File FileName="Assets\scripts\tutorial\Level1.js" Line="23" Column="3" />
+      <File FileName="Assets\scripts\Menu\MenuScript.js" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
